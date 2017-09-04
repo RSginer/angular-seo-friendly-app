@@ -3,13 +3,12 @@
 
 # TEAM
 
-  <name> -- <role> -- <twitter>
+  GnommoStudios -- Developers -- @gnommostudios
 
 # THANKS
 
   <name>
-  PatrickJS -- @gdi2290
-  AngularClass -- @AngularClass
+  Rubén Soler - @rubensolerweb
 
 # TECHNOLOGY COLOPHON
 
