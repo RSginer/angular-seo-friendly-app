@@ -1,3 +1,4 @@
+import { HerosComponent } from './heros/heros.component';
 import { HomeComponent } from './home/home.component';
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
@@ -8,7 +9,8 @@ import { AppRoutingModule } from './app.routing.module';
 @NgModule({
   declarations: [
     AppComponent,
-    HomeComponent
+    HomeComponent,
+    HerosComponent
   ],
   imports: [
     BrowserModule.withServerTransition({appId: 'ang-seo-pre'}),
